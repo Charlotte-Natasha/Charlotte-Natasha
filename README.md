@@ -21,7 +21,6 @@ Here are some ideas to get you started: -->
 <a href='https://www.linkedin.com/in/charlotte-natasha' text='blank'> <img src='images/linkedin.png' alt='' width='30px'> </a>
 
 ## 💼 Technical Skills
-<img src='images/angular.png' alt='' width='30px'>
-<img src='images/css.png' alt='' width='30px'>
-<img src='images/django.png' alt='' width='30px'>
-<img src='images/github.png' alt='' width='30px'>
+<img src='images/angular.png' alt='' width='30px'>, <img src='images/css.png' alt='' width='30px'>, <img src='images/django.png' alt='' width='30px'>, <img src='images/github.png' alt='' width='30px'>
+
+
