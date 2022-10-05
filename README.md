@@ -17,6 +17,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I read 5 books every month. 
 
 ## Connect with me 
-<a href="https://www.linkedin.com/in/charlotte-natasha"><img src="images/linkedin.png" alt="alternate "text”width="30px"></a>
+
+<a href='https://www.linkedin.com/in/charlotte-natasha'> <img src='images/linkedin.png' alt='' width='30px'> </a>
 
 ## 💼 Technical Skills
