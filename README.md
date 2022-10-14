@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 📖 I’m currently undergoing ###Code First Girls - Python and Apps course.
+- 📖 I’m currently undergoing Code First Girls - Python and Apps course.
 
 - 🌱 I recently completed a Full stack Web Development Course at Moringa school.
 
