@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on projects, pair-programming and finding a mentor.
 - 🤔 I’m looking for help with React as I am self-learning.
 - 💬 Ask me about my coding journey a year from now.
-- 📫 How to reach me: natashaonyango97@gmail.com
+- 📫 How to reach me: onyangocharlotte@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I read 5 books every month.
 
