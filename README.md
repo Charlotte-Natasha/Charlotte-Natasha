@@ -5,13 +5,6 @@
 
 Here are some ideas to get you started: -->
 
-- 📖 I’m currently taking a Machine Learning Course with Bath Spa University.
-
-- 🌱 I recently completed a Full stack Web Development Course at Moringa school.
-
-- 👯 I’m looking to collaborate on projects, pair-programming and finding a mentor.
-- 🤔 I’m looking for help with React as I am self-learning.
-- 💬 Ask me about my coding journey from September 2023.
 - 📫 How to reach me: onyangocharlotte@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I read 5 books every month. More like 2 now. 
