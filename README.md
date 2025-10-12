@@ -1,4 +1,4 @@
-## Hi there 👋, Charlotte here trying to transition into tech from Aeronautical Engineering since February 2022.
+## Hi there 👋, Charlotte here trying to transition into tech from Aeronautical Engineering.
 
 <!--
 **Charlotte-Natasha/Charlotte-Natasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
