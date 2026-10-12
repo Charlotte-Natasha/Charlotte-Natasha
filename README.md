@@ -1,12 +1,16 @@
-### Hello! I'm Charlotte 👋
+# Hello, I'm Charlotte 👋
 
-An engineer dedicated to **expanding my knowledge from Aeronautical Engineering into the world of Tech**. I'm passionate about applying my analytical and problem-solving skills to modern development challenges.
+I'm an **Aeronautical Engineering graduate currently pursuing a Master's in Data Science and AI**. I'm interested in bridging engineering and technology, particularly in aerospace applications.
 
-**Currently Learning & Working On:**
-* Développment IA 
-* Expanding my knowledge of Vite/React.
-* Building a strong foundation in SQL.
-* Machine Learning by turning complex data into visual insights.
+I'm exploring how software, data science, and AI can support **aeronautical design, simulation, and engineering optimisation**.
+
+### Currently Learning & Working On
+
+- Data Science and AI
+- Python, machine learning, and data analysis
+- Software development with React and Vite
+- SQL and database management
+- Exploring the intersection of aerospace engineering, simulation, and data-driven design
 
 **Let's Connect:**
 * 📫 onyangocharlotte@gmail.com
